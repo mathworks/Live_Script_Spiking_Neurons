@@ -1,6 +1,6 @@
 # Izhikevich Live Script
 
-This Live Script simulates the Izhikevich model for spiking neurons using MATLAB code in the form of a Live Script. Links to the original paper and the book Dynamical Systems in Neuroscience are provided in the Live Script. 
+The code is a Live Script which simulates a well known model for spiking neurons that has been published and is acknowledged. The Live Script is intended as a demo for neuroscience audiences to showcase different Live Script capabilities such as Live Controls, Live Tasks, converting code to local functions, etc.
 
 The Live Script demonstrates the spiking response of a neuron having certain membrane properties in response to the injection of an external current pulse. The user can modify the parameters. The first group of parameters deals with membrane parameters, whereas the second group changes the amplitude and width of the current pulse. 
 
