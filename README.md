@@ -14,4 +14,4 @@ The Live Script is accompanied by two Apps, one using the forward Euler method a
 
 To run this Live Script check if you have a MATLAB license from your school or university. If not, you can download a free trial for 30 days.
 
-
+[![View Live_Script_Spiking_Neurons on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/86198-live_script_spiking_neurons)
